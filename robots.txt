@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://syty666.github.io/al-folio/sitemap.xml
